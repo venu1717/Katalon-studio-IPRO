@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15235-GuardTour-ViewReports</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e99293e9-7c83-4c0a-bd79-feeb120f6cc8</testCaseGuid>
+   <variable>
+      <defaultValue>'Test123'</defaultValue>
+      <description></description>
+      <id>66336e81-4637-4feb-84b6-7c8b00a377fb</id>
+      <masked>false</masked>
+      <name>expectedGuardTour</name>
+   </variable>
+   <variable>
+      <defaultValue>'13-07-2023'</defaultValue>
+      <description></description>
+      <id>bf996fbe-558f-4cdd-9533-31af40f946a9</id>
+      <masked>false</masked>
+      <name>beginDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'13-07-2023'</defaultValue>
+      <description></description>
+      <id>5e52bea7-47dd-4377-a847-a94129daf668</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+</TestCaseEntity>

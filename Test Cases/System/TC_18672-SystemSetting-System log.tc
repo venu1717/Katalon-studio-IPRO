@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18672-SystemSetting-System log</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae0c19b-4c1a-462f-a8f8-7c14e90ce1ad</testCaseGuid>
+   <variable>
+      <defaultValue>'Server'</defaultValue>
+      <description></description>
+      <id>3313eb22-1c92-4652-99a5-722b8403c2a3</id>
+      <masked>false</masked>
+      <name>serverCombobox</name>
+   </variable>
+   <variable>
+      <defaultValue>'Log Type'</defaultValue>
+      <description></description>
+      <id>58508a43-27ca-4627-9504-f3bdbc4889a9</id>
+      <masked>false</masked>
+      <name>logTypeCombobox</name>
+   </variable>
+   <variable>
+      <defaultValue>'Date'</defaultValue>
+      <description></description>
+      <id>e8dcd8fa-abe4-410c-b992-c459d3100e70</id>
+      <masked>false</masked>
+      <name>dateField</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rows'</defaultValue>
+      <description></description>
+      <id>38d6ecb5-0b7c-4eed-9bfb-27580487f708</id>
+      <masked>false</masked>
+      <name>rowsTextBox</name>
+   </variable>
+   <variable>
+      <defaultValue>'Refresh'</defaultValue>
+      <description></description>
+      <id>48fed06f-db77-46e2-ad16-aeedf414d1ad</id>
+      <masked>false</masked>
+      <name>refreshButton</name>
+   </variable>
+   <variable>
+      <defaultValue>'Download'</defaultValue>
+      <description></description>
+      <id>7468062c-fc6e-4f24-a4c6-9db08e49e5f3</id>
+      <masked>false</masked>
+      <name>downloadButton</name>
+   </variable>
+   <variable>
+      <defaultValue>'Search'</defaultValue>
+      <description></description>
+      <id>7396edfe-fd3f-4602-ab82-a89d45bed886</id>
+      <masked>false</masked>
+      <name>searchButton</name>
+   </variable>
+   <variable>
+      <defaultValue>'Find'</defaultValue>
+      <description></description>
+      <id>ca6f2afa-fa88-45bc-b9c3-64c2f27855cf</id>
+      <masked>false</masked>
+      <name>findTextBox</name>
+   </variable>
+</TestCaseEntity>

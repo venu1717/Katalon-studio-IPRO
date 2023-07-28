@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8335-OnlineUsersTab-RebootStandardUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67e9d990-606e-4535-9e54-fea9c791b221</testCaseGuid>
+   <variable>
+      <defaultValue>'Vikas'</defaultValue>
+      <description></description>
+      <id>dcae7a6c-4910-409a-98b0-03af2e0e4927</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>9768a6d3-600a-493b-8da1-f2d6016bfd44</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

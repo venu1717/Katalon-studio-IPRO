@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_7756-GuardTour-RunTour</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2f1cdbe-47f6-49ea-869c-13be02022d46</testCaseGuid>
+   <variable>
+      <defaultValue>'Run Guard Tours'</defaultValue>
+      <description></description>
+      <id>fabad73c-ab7a-4f3f-8376-fe1882535f6c</id>
+      <masked>false</masked>
+      <name>title</name>
+   </variable>
+   <variable>
+      <defaultValue>'13-07-2023 20:23'</defaultValue>
+      <description></description>
+      <id>32144ebb-0c5d-4a6a-a7f3-94f15af5d2a8</id>
+      <masked>false</masked>
+      <name>beginDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'13-07-2023 20:23'</defaultValue>
+      <description></description>
+      <id>5211211e-f82b-4ed6-aba3-0cff5d3051c5</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+</TestCaseEntity>

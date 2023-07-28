@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003-NonAdminUserCreation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b12e38a3-1b73-4d36-b8de-e0e13713e3bb</testCaseGuid>
+   <variable>
+      <defaultValue>['Parking Camera (H.265)', 'Train Camera (H.264)']</defaultValue>
+      <description></description>
+      <id>b8133145-7a41-4a50-b2d0-8f684aea2ec5</id>
+      <masked>false</masked>
+      <name>camList</name>
+   </variable>
+</TestCaseEntity>

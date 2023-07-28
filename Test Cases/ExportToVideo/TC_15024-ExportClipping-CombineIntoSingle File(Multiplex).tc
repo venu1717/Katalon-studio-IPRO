@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15024-ExportClipping-CombineIntoSingle File(Multiplex)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5c789d9-57fe-43f6-b44d-0a5946483f3b</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\Users\\admin\\Katalon Studio\\VIMonitorPlus_Test\\Export To Video'</defaultValue>
+      <description></description>
+      <id>691847f7-1101-4212-a898-2b0b771e3b29</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Export-'</defaultValue>
+      <description></description>
+      <id>85f1edfb-7819-4115-91e1-db689f2e3b05</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+   <variable>
+      <defaultValue>'09-07-2023 23:52:40'</defaultValue>
+      <description></description>
+      <id>279a33d9-10c5-4294-bd1a-d49e272e7acc</id>
+      <masked>false</masked>
+      <name>starttime</name>
+   </variable>
+   <variable>
+      <defaultValue>'10-07-2023 03:12:40'</defaultValue>
+      <description></description>
+      <id>06681b3f-657c-4214-b070-8621f0819c6a</id>
+      <masked>false</masked>
+      <name>endtime</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\admin\\\\Katalon Studio\\\\VIMonitorPlus_Test'</defaultValue>
+      <description></description>
+      <id>203b2035-58d7-4f26-84a7-589122418df5</id>
+      <masked>false</masked>
+      <name>folderpath</name>
+   </variable>
+</TestCaseEntity>

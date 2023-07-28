@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_003-EnableDewarpingInCameraProperties</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df37845d-cf2e-4755-84cb-0affa4e0e9de</testCaseGuid>
+   <variable>
+      <defaultValue>'Train Camera (H.264)'</defaultValue>
+      <description></description>
+      <id>78461af2-3e83-49fe-bec3-a531e72b1d44</id>
+      <masked>false</masked>
+      <name>expCamera</name>
+   </variable>
+   <variable>
+      <defaultValue>['Wall Mount', 'Ceiling Mount', 'Ground Mount']</defaultValue>
+      <description></description>
+      <id>ec03dcbb-c7f7-468d-b385-90dc6fccd22f</id>
+      <masked>false</masked>
+      <name>mountPositionlist</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-NoRotationValueInCameraProperties</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ebca7aed-bef5-4913-8342-0b4c8cc38386</testCaseGuid>
+   <variable>
+      <defaultValue>'Train Camera (H.264)'</defaultValue>
+      <description></description>
+      <id>ffb79791-692c-42ac-86a1-83bf23fa75fc</id>
+      <masked>false</masked>
+      <name>expCameraName</name>
+   </variable>
+</TestCaseEntity>

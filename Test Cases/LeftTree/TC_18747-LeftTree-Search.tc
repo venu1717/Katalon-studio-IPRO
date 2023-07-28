@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18747-LeftTree-Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bec3a088-ce50-4c0c-bf97-1cf1bd471501</testCaseGuid>
+   <variable>
+      <defaultValue>'Parking Camera'</defaultValue>
+      <description></description>
+      <id>5fc31bc0-26ab-484f-8a5f-a2f2057fa9a3</id>
+      <masked>false</masked>
+      <name>cameraName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Symple view'</defaultValue>
+      <description></description>
+      <id>5ca4fb94-0887-4a62-8977-134fb33fbe96</id>
+      <masked>false</masked>
+      <name>viewName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test1'</defaultValue>
+      <description></description>
+      <id>3cf60b1a-bf0c-4692-bc99-02275f762429</id>
+      <masked>false</masked>
+      <name>mapName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Parking Camera'</defaultValue>
+      <description></description>
+      <id>32d0e28e-7c80-4681-9b1e-0ee294849244</id>
+      <masked>false</masked>
+      <name>serverName</name>
+   </variable>
+</TestCaseEntity>

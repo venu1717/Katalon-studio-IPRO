@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002-LoginPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41cecdce-685e-497c-9f9c-24c94c2780d0</testCaseGuid>
+   <variable>
+      <defaultValue>'&quot;Login was unsuccessful'</defaultValue>
+      <description></description>
+      <id>6f63932b-ed77-4340-bdd5-5d97dc859a50</id>
+      <masked>false</masked>
+      <name>errorMsg</name>
+   </variable>
+   <variable>
+      <defaultValue>'zS5QYyHEt2oYu4UP9ylUqg=='</defaultValue>
+      <description></description>
+      <id>eb83492d-8e10-4ccc-aee5-58970915e340</id>
+      <masked>false</masked>
+      <name>eUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'4O1urPbhZJxYukK0MI6KZA=='</defaultValue>
+      <description></description>
+      <id>4bf5e088-1a02-4eb7-9235-c5f55eb84452</id>
+      <masked>false</masked>
+      <name>ePassword</name>
+   </variable>
+</TestCaseEntity>

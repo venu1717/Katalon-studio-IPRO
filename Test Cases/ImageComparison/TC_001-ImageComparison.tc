@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-ImageComparison</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a375139-1086-40f8-86d1-9c4091bd57fd</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\admin\\\\Katalon Studio\\\\VIMonitorPlus_Test\\\\test.png'</defaultValue>
+      <description></description>
+      <id>c4c7f1d3-923e-4019-982a-a84290add553</id>
+      <masked>false</masked>
+      <name>expScreenshot</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\admin\\\\Katalon Studio\\\\VIMonitorPlus_Test\\\\home.png'</defaultValue>
+      <description></description>
+      <id>aa62f5a5-9aa4-4494-a05b-79c34949d66e</id>
+      <masked>false</masked>
+      <name>actualScreenshot</name>
+   </variable>
+</TestCaseEntity>

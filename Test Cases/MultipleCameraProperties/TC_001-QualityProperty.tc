@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-QualityProperty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3df04208-aa13-47e1-aafe-d0747d8768fe</testCaseGuid>
+   <variable>
+      <defaultValue>['Parking Camera (H.265)', 'WV-S4176(H.265)']</defaultValue>
+      <description></description>
+      <id>861a9565-d351-4dc4-8c79-1058e9180477</id>
+      <masked>false</masked>
+      <name>camerasList</name>
+   </variable>
+</TestCaseEntity>

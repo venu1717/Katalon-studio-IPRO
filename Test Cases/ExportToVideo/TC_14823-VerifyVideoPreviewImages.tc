@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_14823-VerifyVideoPreviewImages</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f740de9-d0e1-46a9-a390-e7a47a86140f</testCaseGuid>
+   <variable>
+      <defaultValue>'11-07-2023 19:13:06'</defaultValue>
+      <description></description>
+      <id>63805db6-dbd8-4fac-bf71-dfb6afa4ae3c</id>
+      <masked>false</masked>
+      <name>startTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'11-07-2023 19:45:36'</defaultValue>
+      <description></description>
+      <id>c5ba118f-332e-434d-8143-f251ac8b6e5f</id>
+      <masked>false</masked>
+      <name>endTime</name>
+   </variable>
+</TestCaseEntity>

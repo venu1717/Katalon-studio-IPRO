@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8342-ServerStatistics-ExportData-Excel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2d57a5c4-1166-4c40-8096-58e487a5f5cb</testCaseGuid>
+   <variable>
+      <defaultValue>'Excel Files'</defaultValue>
+      <description></description>
+      <id>1055c3fb-856a-45a3-bd40-4422dd9b9610</id>
+      <masked>false</masked>
+      <name>expFileType</name>
+   </variable>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>e6818351-4425-4cd5-a906-259a393b5030</id>
+      <masked>false</masked>
+      <name>row3</name>
+   </variable>
+   <variable>
+      <defaultValue>'21-07-2023 05:10:38'</defaultValue>
+      <description></description>
+      <id>cdfdab2e-45d6-44d1-89f7-25f868db7433</id>
+      <masked>false</masked>
+      <name>expTime</name>
+   </variable>
+</TestCaseEntity>

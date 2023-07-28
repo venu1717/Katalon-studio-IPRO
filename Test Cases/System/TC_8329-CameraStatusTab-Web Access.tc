@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8329-CameraStatusTab-Web Access</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5a5e6c3-a725-48a6-a189-e865c061d6dd</testCaseGuid>
+   <variable>
+      <defaultValue>'http://127.0.0.1:80'</defaultValue>
+      <description></description>
+      <id>db7ef307-0a79-493b-a768-33640bd9d492</id>
+      <masked>false</masked>
+      <name>expWebAccess</name>
+   </variable>
+</TestCaseEntity>

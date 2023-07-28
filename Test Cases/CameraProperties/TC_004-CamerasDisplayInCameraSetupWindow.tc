@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004-CamerasDisplayInCameraSetupWindow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4b600f9-a49c-482f-a118-96502308520e</testCaseGuid>
+   <variable>
+      <defaultValue>['Parking Camera (H.265)', 'Train Camera (H.264) ', 'WV-S4176(H.265)', 'WV-U1142 (H.265)', 'SNC-EM641']</defaultValue>
+      <description></description>
+      <id>53e0bc4f-1eb7-404b-ac0a-a5ddf867f753</id>
+      <masked>false</masked>
+      <name>camerasList</name>
+   </variable>
+</TestCaseEntity>

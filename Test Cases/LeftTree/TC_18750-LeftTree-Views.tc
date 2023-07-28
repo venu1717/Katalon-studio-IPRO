@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18750-LeftTree-Views</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc143ed4-0ba0-48b2-87f2-7b671349967e</testCaseGuid>
+   <variable>
+      <defaultValue>'lblDisplayCtrl'</defaultValue>
+      <description></description>
+      <id>220da78c-f475-4248-9880-634518c727c3</id>
+      <masked>false</masked>
+      <name>expAutomationdId</name>
+   </variable>
+   <variable>
+      <defaultValue>'Symple view'</defaultValue>
+      <description></description>
+      <id>0062823a-3b75-44a2-aa72-9d9ccad1e678</id>
+      <masked>false</masked>
+      <name>expctedView</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15236-GuardTour-SaveReportToTextFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6f51743-fab7-4086-9dd1-17727b9b06ca</testCaseGuid>
+   <variable>
+      <defaultValue>'18-07-2023'</defaultValue>
+      <description></description>
+      <id>7909348c-6bdc-4e67-a577-c8515dd24f4e</id>
+      <masked>false</masked>
+      <name>beginDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'18-07-2023'</defaultValue>
+      <description></description>
+      <id>db085fd9-1b82-48fe-8baa-2ac42379c79c</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'D:\\Daily Plan\\2023\\JULY-2023'</defaultValue>
+      <description></description>
+      <id>2a117cf3-5a76-4983-9919-61488a0e02de</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Venu'</defaultValue>
+      <description></description>
+      <id>46e5b7d7-2e4f-4738-9507-e1b27ae5e9cf</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+</TestCaseEntity>

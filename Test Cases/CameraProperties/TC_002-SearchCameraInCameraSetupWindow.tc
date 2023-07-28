@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002-SearchCameraInCameraSetupWindow</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0e93160-662b-4084-b364-0de17affca4a</testCaseGuid>
+   <variable>
+      <defaultValue>'Train Camera (H.264)'</defaultValue>
+      <description></description>
+      <id>1f5ffc8e-3055-4cd1-bcc5-2013b8d64c32</id>
+      <masked>false</masked>
+      <name>camera</name>
+   </variable>
+</TestCaseEntity>

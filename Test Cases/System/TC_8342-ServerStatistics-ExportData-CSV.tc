@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8342-ServerStatistics-ExportData-CSV</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>284b636e-6f68-4ccb-833d-b6e6515dbb3a</testCaseGuid>
+   <variable>
+      <defaultValue>'Excel Files'</defaultValue>
+      <description></description>
+      <id>a2cc6265-12a0-4159-b896-fd873eb62857</id>
+      <masked>false</masked>
+      <name>expFileType</name>
+   </variable>
+</TestCaseEntity>
