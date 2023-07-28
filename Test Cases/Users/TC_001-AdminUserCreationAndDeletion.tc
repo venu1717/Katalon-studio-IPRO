@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-AdminUserCreationAndDeletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa5f6a8e-611f-4c80-829d-4bd26da8a118</testCaseGuid>
+   <variable>
+      <defaultValue>'user4\r\n'</defaultValue>
+      <description></description>
+      <id>b6b3d978-1ac7-4758-a133-458f56ab7370</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Vikas'</defaultValue>
+      <description></description>
+      <id>bc3f5f3e-ee30-4366-a86e-8da04eddbef5</id>
+      <masked>false</masked>
+      <name>fullName</name>
+   </variable>
+   <variable>
+      <defaultValue>'12345'</defaultValue>
+      <description></description>
+      <id>1b805019-89b7-459a-a255-e23e27cbd6e8</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc@yopmail.com'</defaultValue>
+      <description></description>
+      <id>2482ff9e-f060-4df7-aebb-398e3dc7412f</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Making this user an administrator will reset their group assignments and permissions.  Do you wish to continue?'</defaultValue>
+      <description></description>
+      <id>ef9d2cc1-cdd4-49ae-a107-770b45cb7982</id>
+      <masked>false</masked>
+      <name>administratorPopText</name>
+   </variable>
+   <variable>
+      <defaultValue>'Train Camera (H.264)'</defaultValue>
+      <description></description>
+      <id>44102928-9423-4b4b-80de-9c1e870baace</id>
+      <masked>false</masked>
+      <name>expCameraName</name>
+   </variable>
+   <variable>
+      <defaultValue>[true, true]</defaultValue>
+      <description></description>
+      <id>2daaa69b-5223-4d1b-b954-2edd02e460a4</id>
+      <masked>false</masked>
+      <name>checkBoxesToBeSelect</name>
+   </variable>
+   <variable>
+      <defaultValue>['Train Camera (H.264)', 'Parking Camera (H.265)']</defaultValue>
+      <description></description>
+      <id>d3460180-3374-405e-a697-7330fe04864d</id>
+      <masked>false</masked>
+      <name>cameras</name>
+   </variable>
+</TestCaseEntity>

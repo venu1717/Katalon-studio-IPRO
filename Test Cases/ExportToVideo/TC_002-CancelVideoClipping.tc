@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002-CancelVideoClipping</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a96d547-29ba-4f84-9019-55199f5d56a3</testCaseGuid>
+   <variable>
+      <defaultValue>'11-07-2023 00:53:21'</defaultValue>
+      <description></description>
+      <id>9266a5e9-bc7b-4ad3-844b-bdbf1dc51ab6</id>
+      <masked>false</masked>
+      <name>startTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'11-07-2023 00:54:21'</defaultValue>
+      <description></description>
+      <id>f7e48a22-881f-4bdb-8869-38822a9fc718</id>
+      <masked>false</masked>
+      <name>endTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\admin\\Katalon Studio\\VIMonitorPlus_Test\\Export To Video'</defaultValue>
+      <description></description>
+      <id>4ac7e4eb-dba2-44fc-afa4-9c415867f395</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Export-'</defaultValue>
+      <description></description>
+      <id>5890289b-1b5f-454e-affe-f7e4f98c40a2</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\admin\\\\Katalon Studio\\\\VIMonitorPlus_Test'</defaultValue>
+      <description></description>
+      <id>01f39f90-00ae-442d-82b8-30b2ee12ced0</id>
+      <masked>false</masked>
+      <name>folderPath</name>
+   </variable>
+   <variable>
+      <defaultValue>'09-07-2023 23:52:40'</defaultValue>
+      <description></description>
+      <id>faf71007-6689-4078-9ffc-ff19612a8097</id>
+      <masked>false</masked>
+      <name>startTime1</name>
+   </variable>
+   <variable>
+      <defaultValue>'10-07-2023 07:56:40'</defaultValue>
+      <description></description>
+      <id>e72f4b25-5b53-48c2-8dc0-76652c0d18f7</id>
+      <masked>false</masked>
+      <name>endTime1</name>
+   </variable>
+</TestCaseEntity>

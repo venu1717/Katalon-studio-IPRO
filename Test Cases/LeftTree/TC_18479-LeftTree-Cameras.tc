@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18479-LeftTree-Cameras</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac3bbc9d-045c-46f3-82fd-12ecf6d8c296</testCaseGuid>
+   <variable>
+      <defaultValue>'Parking Camera (H.265)'</defaultValue>
+      <description></description>
+      <id>7a5d5e5c-0a57-4fd8-982e-819e585746bd</id>
+      <masked>false</masked>
+      <name>expectedCamera</name>
+   </variable>
+</TestCaseEntity>

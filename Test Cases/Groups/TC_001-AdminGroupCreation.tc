@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-AdminGroupCreation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>275b1e30-33d0-4119-b17f-757b818d1094</testCaseGuid>
+   <variable>
+      <defaultValue>'Making this user an administrator will reset their group assignments and permissions.  Do you wish to continue?'</defaultValue>
+      <description></description>
+      <id>26f32bfc-7461-4efa-8b44-aa688b605d70</id>
+      <masked>false</masked>
+      <name>administratorPopupValue</name>
+   </variable>
+</TestCaseEntity>

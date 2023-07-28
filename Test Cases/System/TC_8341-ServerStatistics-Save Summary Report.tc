@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_8341-ServerStatistics-Save Summary Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e85495f7-b79b-497f-b4b9-8aa7ef167ad5</testCaseGuid>
+   <variable>
+      <defaultValue>'Venu1'</defaultValue>
+      <description></description>
+      <id>7a468890-7b7d-4c4c-b918-79a2400deb2d</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+   <variable>
+      <defaultValue>'‪C:\\\\Users\\\\admin\\\\Desktop'</defaultValue>
+      <description></description>
+      <id>84e02845-9cf9-4a73-a4c3-db913f474579</id>
+      <masked>false</masked>
+      <name>folderPath</name>
+   </variable>
+</TestCaseEntity>

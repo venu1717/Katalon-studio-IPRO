@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_004-FormatProperty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81970031-85ae-4aed-9e35-47df481ed502</testCaseGuid>
+   <variable>
+      <defaultValue>['Parking Camera (H.265)', 'WV-S4176(H.265)']</defaultValue>
+      <description></description>
+      <id>ee2acd28-d407-4865-a71c-a77333d1f20b</id>
+      <masked>false</masked>
+      <name>camerasList</name>
+   </variable>
+</TestCaseEntity>

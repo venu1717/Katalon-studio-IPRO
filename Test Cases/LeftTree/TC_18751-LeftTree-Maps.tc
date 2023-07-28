@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_18751-LeftTree-Maps</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53426f8c-a5a3-4d7a-a8a4-1dfa4708680f</testCaseGuid>
+   <variable>
+      <defaultValue>'Test1'</defaultValue>
+      <description></description>
+      <id>90c5779b-c635-4e44-bd11-cff17e8ef31b</id>
+      <masked>false</masked>
+      <name>expMapName</name>
+   </variable>
+</TestCaseEntity>

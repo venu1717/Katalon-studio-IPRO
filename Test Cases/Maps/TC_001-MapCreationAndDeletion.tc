@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-MapCreationAndDeletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75056bef-4286-47b8-9012-7af7a13602c2</testCaseGuid>
+   <variable>
+      <defaultValue>'Test1'</defaultValue>
+      <description></description>
+      <id>b909013b-dc0d-4ada-8406-c4b762fa85e7</id>
+      <masked>false</masked>
+      <name>mapName</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\admin\\Downloads\\VI Monitor Map Name.png'</defaultValue>
+      <description></description>
+      <id>543713a3-929f-4988-bc48-7ac42626f96d</id>
+      <masked>false</masked>
+      <name>filePath</name>
+   </variable>
+</TestCaseEntity>

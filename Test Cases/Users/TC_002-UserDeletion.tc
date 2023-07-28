@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002-UserDeletion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67940380-9306-4d25-a8e5-94c8161a46f9</testCaseGuid>
+   <variable>
+      <defaultValue>'AdminUserPjk'</defaultValue>
+      <description></description>
+      <id>a635df89-0334-466d-8a3a-76b1933deab1</id>
+      <masked>false</masked>
+      <name>expectedUser</name>
+   </variable>
+</TestCaseEntity>

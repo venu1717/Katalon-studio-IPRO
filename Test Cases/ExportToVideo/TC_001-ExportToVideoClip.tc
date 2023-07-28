@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-ExportToVideoClip</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8a31f8a-3839-4946-8dda-efb868c4657a</testCaseGuid>
+   <variable>
+      <defaultValue>'27-06-2023 00:53:05'</defaultValue>
+      <description></description>
+      <id>9266a5e9-bc7b-4ad3-844b-bdbf1dc51ab6</id>
+      <masked>false</masked>
+      <name>startTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'27-06-2023 01:13:05'</defaultValue>
+      <description></description>
+      <id>f7e48a22-881f-4bdb-8869-38822a9fc718</id>
+      <masked>false</masked>
+      <name>endTime</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\admin\\Katalon Studio\\VIMonitorPlus_Test\\Export To Video'</defaultValue>
+      <description></description>
+      <id>4ac7e4eb-dba2-44fc-afa4-9c415867f395</id>
+      <masked>false</masked>
+      <name>filepath</name>
+   </variable>
+   <variable>
+      <defaultValue>'Export-'</defaultValue>
+      <description></description>
+      <id>5890289b-1b5f-454e-affe-f7e4f98c40a2</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+</TestCaseEntity>

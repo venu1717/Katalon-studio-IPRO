@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001-Help</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae3e92d1-44b7-41cf-86d5-aea79ed701f7</testCaseGuid>
+   <variable>
+      <defaultValue>'i-PRO Americas Inc'</defaultValue>
+      <description></description>
+      <id>60d04713-7012-412f-aa6d-77c51a6c6b6a</id>
+      <masked>false</masked>
+      <name>companyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Technical Support Information'</defaultValue>
+      <description></description>
+      <id>84950819-4fd3-4098-8a94-3845fb0e1c62</id>
+      <masked>false</masked>
+      <name>technicalSupportInformation</name>
+   </variable>
+   <variable>
+      <defaultValue>'OK'</defaultValue>
+      <description></description>
+      <id>411763fd-2c2f-4cc6-9e9f-e1fb6d3e8764</id>
+      <masked>false</masked>
+      <name>okButtonValue</name>
+   </variable>
+</TestCaseEntity>

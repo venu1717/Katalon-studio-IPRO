@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_15082-CheckAuditlog -Of-CameraPropertiesChange</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af9c31bd-e65b-46d8-9d27-2f54a5ae9755</testCaseGuid>
+   <variable>
+      <defaultValue>'12-07-2023'</defaultValue>
+      <description></description>
+      <id>a84e944e-c8e3-4a9f-a544-664853e5617c</id>
+      <masked>false</masked>
+      <name>startDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'12-07-2023'</defaultValue>
+      <description></description>
+      <id>4999fe10-2523-4963-b79b-052a6e1d22bd</id>
+      <masked>false</masked>
+      <name>endDate</name>
+   </variable>
+   <variable>
+      <defaultValue>'Train Camera (H.264)'</defaultValue>
+      <description></description>
+      <id>ac525352-2abf-477c-afe3-36b7380cd4a0</id>
+      <masked>false</masked>
+      <name>expectedCamera</name>
+   </variable>
+   <variable>
+      <defaultValue>['Wall Mount', 'Ceiling Mount', 'Ground Mount']</defaultValue>
+      <description></description>
+      <id>75c1c9af-e0ed-467a-953a-4b0b61733552</id>
+      <masked>false</masked>
+      <name>mountPositionList</name>
+   </variable>
+</TestCaseEntity>
